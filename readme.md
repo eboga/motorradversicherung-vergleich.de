@@ -37,7 +37,9 @@ faq:
         Gerade bei einem neuen Roller lohnt sich häufig der Abschluss einer [Teilkaskoversicherung](/teilkaskoversicherung/). Müssen Sie nämlich einen neuen Roller aufgrund eines Diebstahls oder durch Vandalismus ersetzen, sind die Kosten deutlich höher als der Versicherungsbeitrag für eine Teilkaskoversicherung. Nach einigen Jahren können Sie die Teilkasko kündigen und Ihren Roller nur noch über die Haftpflicht versichern. So senken Sie den Beitrag für Ihren Versicherungsschutz und sind trotzdem sinnvoll abgesichert.
 
 {% comment %}
-  - title: 
+faq:
+  - title: ""
     anchor: 
-    content: 
+    content: >-
+        
 {% endcomment %}
