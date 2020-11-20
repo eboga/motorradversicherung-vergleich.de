@@ -40,6 +40,6 @@ faq:
 faq:
   - title: ""
     anchor: 
-    content: >-
+    content: |-
         
 {% endcomment %}
